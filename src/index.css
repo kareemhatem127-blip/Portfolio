@@ -1,0 +1,7 @@
+html {
+  scroll-behavior: smooth !important;
+}
+
+section {
+  scroll-margin-top: 80px !important; /* تعويض ارتفاع الـ Fixed Navbar */
+}
