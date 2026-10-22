@@ -4,7 +4,7 @@ import { Button } from 'react-bootstrap';
 
 export default function Hero() {
   return (
-    <section className="bg-black text-dark py-5 min-vh-100 d-flex align-items-center" id="#hero">
+    <section id="hero" className="bg-black text-dark py-5 min-vh-100 d-flex align-items-center" >
       <div className="container">
         <div className="row align-items-center gy-4">
          
